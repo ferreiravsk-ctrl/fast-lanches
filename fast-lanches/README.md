@@ -1,8 +1,8 @@
-# 🍔 Fast Lanches
+# Fast Lanches
 
 Projeto desenvolvido para a disciplina de Front-End utilizando React e Vite.
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 O Fast Lanches é uma aplicação web de uma hamburgueria fictícia que apresenta informações sobre a empresa, cardápio de produtos, promoções e formas de contato com os clientes.
 
@@ -10,7 +10,7 @@ O projeto foi originalmente desenvolvido como um site estático em HTML e CSS e 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - React
 - Vite
@@ -23,7 +23,7 @@ O projeto foi originalmente desenvolvido como um site estático em HTML e CSS e 
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 src/
@@ -44,7 +44,7 @@ src/
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Exibição do cardápio de lanches.
 - Banner de promoção configurável.
@@ -56,7 +56,7 @@ src/
 
 ---
 
-## 🧩 Componentes Criados
+## Componentes Criados
 
 ### Header
 Responsável pela exibição da logo e menu de navegação.
@@ -78,7 +78,7 @@ Exibe o telefone para pedidos e entregas.
 
 ---
 
-## 🎯 Conceitos Aplicados
+## Conceitos Aplicados
 
 - JSX
 - Componentes Funcionais
@@ -90,7 +90,7 @@ Exibe o telefone para pedidos e entregas.
 
 ---
 
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 Clone o repositório:
 
@@ -124,13 +124,13 @@ http://localhost:5173
 
 ---
 
-## 🌐 Deploy
+## Deploy
 
 Projeto publicado na Vercel.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Pedro Ferreira
 
