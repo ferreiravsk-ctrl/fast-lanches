@@ -95,7 +95,7 @@ Exibe o telefone para pedidos e entregas.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/fast-lanches.git
+git clone https://github.com/ferreiravsk-ctrl/fast-lanches.git
 ```
 
 Acesse a pasta do projeto:
