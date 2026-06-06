@@ -1,16 +1,139 @@
-# React + Vite
+# 🍔 Fast Lanches
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido para a disciplina de Front-End utilizando React e Vite.
 
-Currently, two official plugins are available:
+## 📖 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O Fast Lanches é uma aplicação web de uma hamburgueria fictícia que apresenta informações sobre a empresa, cardápio de produtos, promoções e formas de contato com os clientes.
 
-## React Compiler
+O projeto foi originalmente desenvolvido como um site estático em HTML e CSS e posteriormente migrado para React utilizando Vite, aplicando os conceitos de componentização e JSX.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── BannerPromocao.jsx
+│   ├── ListaProdutos.jsx
+│   └── EntregaFlutuante.jsx
+│
+├── pages/
+│   ├── SobreNos.jsx
+│   └── Contato.jsx
+│
+├── App.jsx
+├── main.jsx
+└── App.css
+```
+
+---
+
+## ✨ Funcionalidades
+
+- Exibição do cardápio de lanches.
+- Banner de promoção configurável.
+- Página Sobre Nós.
+- Página de Contato com formulário simples.
+- Telefone clicável para pedidos.
+- Interface organizada através de componentes React.
+- Estilização personalizada com CSS.
+
+---
+
+## 🧩 Componentes Criados
+
+### Header
+Responsável pela exibição da logo e menu de navegação.
+
+### BannerPromocao
+Exibe promoções utilizando propriedades (props).
+
+### ListaProdutos
+Apresenta os produtos disponíveis no cardápio.
+
+### SobreNos
+Exibe a história e informações da hamburgueria.
+
+### Contato
+Contém formulário para contato dos clientes.
+
+### EntregaFlutuante
+Exibe o telefone para pedidos e entregas.
+
+---
+
+## 🎯 Conceitos Aplicados
+
+- JSX
+- Componentes Funcionais
+- Props
+- ReactDOM.createRoot()
+- Estrutura de projeto com Vite
+- Reutilização de componentes
+- Organização de código em módulos
+
+---
+
+## ⚙️ Como Executar o Projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/fast-lanches.git
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd fast-lanches
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+Acesse:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 🌐 Deploy
+
+Projeto publicado na Vercel.
+
+---
+
+## 👨‍💻 Autor
+
+Pedro Ferreira
+
+Projeto acadêmico desenvolvido para a disciplina de Front-End.
+
+PLOT: Vou ficar devendo o Versel KKKKKKKK!
