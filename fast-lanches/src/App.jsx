@@ -1,9 +1,10 @@
-import Header from "./components/Header";
-import BannerPromocao from "./components/BannerPromocao";
-import ListaProdutos from "./components/ListaProdutos";
-import SobreNos from "./pages/SobreNos";
-import Contato from "./pages/Contato";
-import EntregaFlutuante from "./components/EntregaFlutuante";
+import Header from "./componentes/Hearder.jsx";
+import BannerPromocao from "./componentes/BannerPromocao.jsx";
+import ListaProdutos from "./componentes/ListaProdutos.jsx";
+import SobreNos from "./paginas/SobreNos.jsx";
+import Contato from "./paginas/Contato.jsx";
+import EntregaFlutuante from "./componentes/EntregaFlutuante.jsx";
+import "./App.css";
 
 function App() {
   return (
